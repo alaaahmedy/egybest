@@ -1,8 +1,8 @@
-@import "slick.css";
-@import "swiper.min.css";
-/*@import "icofont.css";*/
-@import "animate.css";
-@import "magnific-popup.css";
+@import "https://rawgit.com/alaaahmedy/egybest/master/slick.css";
+@import "https://rawgit.com/alaaahmedy/egybest/master/swiper.min.css";
+/*@import "https://rawgit.com/alaaahmedy/egybest/master/icofont.css";*/
+@import "https://rawgit.com/alaaahmedy/egybest/master/animate.css";
+@import "https://github.com/alaaahmedy/egybest/blob/master/magnific-popup.css";
 
 /* PRELOADER WAVE STYLE */
 #preloader-wrapper {
